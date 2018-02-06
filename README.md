@@ -1,2 +1,1 @@
-# Javascript-Training
-Javascript foundations training
+JavaScript Training Material - WIP
